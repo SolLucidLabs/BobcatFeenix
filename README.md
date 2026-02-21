@@ -6,7 +6,7 @@ Independent AI security researcher. Founder, [Sol Lucid Labs](https://sollucidla
 cosine distance between embedded user intent and model response. 
 Cross-model, cross-family validated (N=1,944).
 
-- Paper: [ArXiv link] *(forthcoming)*  
+- Paper: [Intent Vectoring — SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6280858)
 - Data: [intent-vectoring-data repo] *(releasing with paper)*  
 - Detection tool: [Kaari](https://sollucidlabs.com/kaari) *(beta, 2026)*
 
