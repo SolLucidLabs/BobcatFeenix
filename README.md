@@ -6,7 +6,7 @@ Independent AI security researcher. Founder, [Sol Lucid Labs](https://sollucidla
 Three-signal detection: dv2 (semantic trajectory) · VF/Sg (intra-response coherence) · deviation ratio.  
 Open measurement standard · reference implementation · calibration layer.
 
-- GitHub: [kaari](https://github.com/BobcatFeenix/kaari) · v0.97
+- GitHub: [kaari](https://github.com/BobcatFeenix/kaari) · v0.98
 - Paper: [Intent Vectoring — SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6280858)  
 - Validated: N=2,228 · composite AUC 0.914 · cross-model, cross-family
 - ArXiv submission pending endorsement (cs.CR / cs.CL)
